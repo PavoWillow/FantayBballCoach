@@ -1,0 +1,11 @@
+.env# Python
+__pycache__/
+*.py[cod]
+.env
+
+# IDE/Editor
+.vscode/
+.idea/
+
+# Other
+.DS_Store
